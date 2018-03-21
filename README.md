@@ -9,7 +9,7 @@ Vagrant box for PHP projects,因github最大支持2G，box源放在百度网盘�
 *  python2.6.7
 *  composer
 
-#Install
+# Install
 项目地址: (`git clone`)
 ```shell
 git clone https://github.com/chinahub/lnmp.git
@@ -27,7 +27,7 @@ vagrant init lnmpBox
 vagrant up
 ```
 
-#Configuration
+# Configuration
 有host-only access/private_network/public_network三种模式可供选择
 ```
 # -*- mode: ruby -*-
@@ -103,15 +103,15 @@ end
 end
 ```
 
-#效果截图：
+# 效果截图：
 ![image](https://ragonli.com/statics/images/version.png)
 ![image](https://ragonli.com/statics/images/phpinfo.png)
 ![image](https://ragonli.com/statics/images/p.png)
 
-#Tips：
-vagrant虚拟硬盘在10G以上，内存在2G内上。
+# Tips：
+vagrant虚拟硬盘在10G以上，内存在2G内上
 推荐vagrant版本1.8.6，virtualBox 5.1.8
 
-#扫码加微信交流：
+# 扫码加微信交流：
 ![image](https://ragonli.com/statics/images/ligang.png)
 
