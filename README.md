@@ -120,6 +120,6 @@ vagrant虚拟硬盘在10G以上，内存在2G内上
 
 # 赞助：
 if it's helpful for you,just Sponsor a cup of coffee  
-![image](https://ragonli.com/statics/images/ali_pay.jpg)
-![image](https://ragonli.com/statics/images/wechat_pay.jpg)
+![image](https://ragonli.com/statics/images/ali_pay.png)
+![image](https://ragonli.com/statics/images/wechat_pay.png)
 
