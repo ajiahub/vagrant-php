@@ -1,5 +1,5 @@
 # lnmp
-Vagrant box for PHP projects
+Vagrant box for PHP projects  
 因github支持上传的文件最大为2G，本box源放在百度网盘，see:https://pan.baidu.com/s/1hGTT2yLSs65mYqEuOB7Tqg
 
 # Include
@@ -29,8 +29,7 @@ vagrant up
 ```
 
 # Configuration
-有host-only access/private_network/public_network三种模式可供选择
-因本地单机开发，本配置选择为private_network
+有host-only access/private_network/public_network三种模式可供选择，因本地单机开发，本配置选择为private_network  
 本地集群参考：https://www.vagrantup.com/docs/multi-machine/
 ```
 Vagrant.configure("2") do |config|
