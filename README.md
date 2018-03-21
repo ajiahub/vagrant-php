@@ -1,7 +1,7 @@
 # lnmp
 Vagrant box for PHP projects,因github最大支持2G，box源放在百度网盘，see:
 
-#Include
+# Include
 *  centos/6.7
 *  nginx/1.12.2
 *  mariadb/10.1.23
