@@ -48,8 +48,7 @@ end
 ![image](https://ragonli.com/statics/images/p.png)
 
 # Tips：
-vagrant虚拟硬盘在10G以上，内存在2G以上  
-推荐vagrant版本1.8.6，virtualBox 5.1.8
+vagrant虚拟硬盘在10G以上，内存在2G以上；推荐vagrant版本1.8.6，virtualBox 5.1.8
 
 # 扫码加微信交流：
 ![image](https://ragonli.com/statics/images/ligang.png)
