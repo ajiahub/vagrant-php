@@ -1,6 +1,6 @@
 # lnmp
 Vagrant box for PHP projects  
-因github支持上传的文件最大为2G，本box源放在百度网盘，see:https://pan.baidu.com/s/1hGTT2yLSs65mYqEuOB7Tqg
+因github支持上传的文件最大为2G，本box源放在百度网盘，see:https://pan.baidu.com/s/1jMuwp0CnNkQRfBuCghdSZA
 
 # Include
 *  centos/6.7
