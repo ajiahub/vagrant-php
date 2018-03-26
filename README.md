@@ -8,6 +8,7 @@ Vagrant box for PHP projects
 *  mariadb/10.1.23
 *  php/7.1.7
 *  redis/3.2.8
+*  mongodb
 *  python2.6.7
 *  composer
 
