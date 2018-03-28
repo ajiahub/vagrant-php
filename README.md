@@ -55,8 +55,3 @@ vagrant虚拟硬盘在10G以上，内存在2G以上；推荐vagrant版本1.8.6�
 # 扫码加微信交流：
 ![image](https://ragonli.com/statics/images/ligang.png)
 
-# 赞助：
-if it's helpful for you,just Sponsor a cup of coffee  
-![image](https://ragonli.com/statics/images/ali_pay.png)
-![image](https://ragonli.com/statics/images/wechat_pay.png)
-
