@@ -45,9 +45,9 @@ end
 ```
 
 # 效果截图：
-![image](https://ragonli.com/statics/images/version.png)
-![image](https://ragonli.com/statics/images/phpinfo.png)
-![image](https://ragonli.com/statics/images/p.png)
+![image](http://li.sbzj.com/statics/images/version.png)
+![image](http://li.sbzj.com/statics/images/phpinfo.png)
+![image](http://li.sbzj.com/statics/images/p.png)
 
 # Tips：
 vagrant虚拟硬盘在10G以上，内存在2G以上；推荐vagrant版本1.8.6，virtualBox 5.1.8
